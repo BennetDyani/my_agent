@@ -5,6 +5,10 @@ import io
 
 import pandas as pd
 import streamlit as st
+from dotenv import load_dotenv
+
+# Load environment variables from .env if present
+load_dotenv()
 
 # Optional LLM imports (try Google Gemini wrapper, then OpenAI)
 try:
@@ -101,8 +105,11 @@ def call_llm(prompt: str, provider: str = "auto", model: str | None = None) -> s
 		if ChatGoogleGenerativeAI is None:
 			return "Google LLM client not available in this environment."
 		model_name = model or "gemini-2.5-flash"
+		api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+		if not api_key:
+			return "GOOGLE_API_KEY or GEMINI_API_KEY not set in environment. Add it to your shell environment or to a .env file."
 		try:
-			llm = ChatGoogleGenerativeAI(model=model_name)
+			llm = ChatGoogleGenerativeAI(model=model_name, api_key=api_key)
 			resp = llm.invoke(prompt)
 			return getattr(resp, "text", str(resp))
 		except Exception as e:

@@ -1,0 +1,354 @@
+Medical Report Set 1
+
+1. South African Female
+Patient: Thandiwe Mokoena, Age 35, Female
+Date: May 7, 2026
+
+COMPLETE BLOOD COUNT (CBC)
+
+Hemoglobin: 12.8 g/dL (Normal: 12.0–15.5)
+
+Hematocrit: 38% (Normal: 36–46%)
+
+WBC: 7.2 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 250 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 210 mg/dL (Normal: <200)
+
+LDL Cholesterol: 135 mg/dL (Normal: <100)
+
+HDL Cholesterol: 42 mg/dL (Normal: >40)
+
+Triglycerides: 160 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 98 mg/dL (Normal: 70–99)
+
+HbA1c: 5.6% (Normal: <5.7%)
+
+Creatinine: 0.8 mg/dL (Normal: 0.6–1.1)
+
+eGFR: 95 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 22 U/L (Normal: 7–40)
+
+AST: 20 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.7 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Sipho Dlamini
+
+2. Russian Male
+Patient: Ivan Petrov, Age 52, Male
+Date: May 7, 2026
+
+CBC
+
+Hemoglobin: 14.7 g/dL (Normal: 13.5–17.5)
+
+Hematocrit: 45% (Normal: 41–53%)
+
+WBC: 6.5 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 210 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 245 mg/dL (Normal: <200)
+
+LDL Cholesterol: 170 mg/dL (Normal: <100)
+
+HDL Cholesterol: 38 mg/dL (Normal: >40)
+
+Triglycerides: 190 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 105 mg/dL (Normal: 70–99)
+
+HbA1c: 5.9% (Normal: <5.7%)
+
+Creatinine: 1.1 mg/dL (Normal: 0.7–1.3)
+
+eGFR: 78 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 30 U/L (Normal: 7–40)
+
+AST: 28 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.9 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Olga Smirnova
+
+3. Chinese Female
+Patient: Li Wei, Age 42, Female
+Date: May 7, 2026
+
+CBC
+
+Hemoglobin: 13.2 g/dL (Normal: 12.0–15.5)
+
+Hematocrit: 39% (Normal: 36–46%)
+
+WBC: 5.9 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 230 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 198 mg/dL (Normal: <200)
+
+LDL Cholesterol: 120 mg/dL (Normal: <100)
+
+HDL Cholesterol: 48 mg/dL (Normal: >40)
+
+Triglycerides: 140 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 90 mg/dL (Normal: 70–99)
+
+HbA1c: 5.4% (Normal: <5.7%)
+
+Creatinine: 0.7 mg/dL (Normal: 0.6–1.1)
+
+eGFR: 100 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 24 U/L (Normal: 7–40)
+
+AST: 22 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.6 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Zhang Ming
+
+4. Japanese Male
+Patient: Hiroshi Tanaka, Age 60, Male
+Date: May 7, 2026
+
+CBC
+
+Hemoglobin: 14.0 g/dL (Normal: 13.5–17.5)
+
+Hematocrit: 42% (Normal: 41–53%)
+
+WBC: 6.0 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 200 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 220 mg/dL (Normal: <200)
+
+LDL Cholesterol: 145 mg/dL (Normal: <100)
+
+HDL Cholesterol: 50 mg/dL (Normal: >40)
+
+Triglycerides: 155 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 95 mg/dL (Normal: 70–99)
+
+HbA1c: 5.7% (Normal: <5.7%)
+
+Creatinine: 1.0 mg/dL (Normal: 0.7–1.3)
+
+eGFR: 85 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 26 U/L (Normal: 7–40)
+
+AST: 23 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.8 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Kenji Sato
+
+Medical Report Set 2
+1. South African Male
+Patient: Sipho Nkosi, Age 28, Male
+Date: May 29, 2026
+
+CBC
+
+Hemoglobin: 15.3 g/dL (Normal: 13.5–17.5)
+
+Hematocrit: 46% (Normal: 41–53%)
+
+WBC: 6.9 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 240 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 185 mg/dL (Normal: <200)
+
+LDL Cholesterol: 110 mg/dL (Normal: <100)
+
+HDL Cholesterol: 45 mg/dL (Normal: >40)
+
+Triglycerides: 130 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 88 mg/dL (Normal: 70–99)
+
+HbA1c: 5.2% (Normal: <5.7%)
+
+Creatinine: 1.0 mg/dL (Normal: 0.7–1.3)
+
+eGFR: 90 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 20 U/L (Normal: 7–40)
+
+AST: 18 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.6 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Lerato Molefe
+
+2. Russian Female
+Patient: Anastasia Volkova, Age 47, Female
+Date: May 29, 2026
+
+CBC
+
+Hemoglobin: 12.5 g/dL (Normal: 12.0–15.5)
+
+Hematocrit: 37% (Normal: 36–46%)
+
+WBC: 7.5 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 260 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 230 mg/dL (Normal: <200)
+
+LDL Cholesterol: 150 mg/dL (Normal: <100)
+
+HDL Cholesterol: 40 mg/dL (Normal: >40)
+
+Triglycerides: 170 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 102 mg/dL (Normal: 70–99)
+
+HbA1c: 5.8% (Normal: <5.7%)
+
+Creatinine: 0.9 mg/dL (Normal: 0.6–1.1)
+
+eGFR: 85 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 28 U/L (Normal: 7–40)
+
+AST: 26 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.8 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Dmitry Ivanov
+
+3. Chinese Male
+Patient: Chen Hao, Age 34, Male
+Date: May 29, 2026
+
+CBC
+
+Hemoglobin: 14.8 g/dL (Normal: 13.5–17.5)
+
+Hematocrit: 43% (Normal: 41–53%)
+
+WBC: 6.2 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 215 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 195 mg/dL (Normal: <200)
+
+LDL Cholesterol: 125 mg/dL (Normal: <100)
+
+HDL Cholesterol: 46 mg/dL (Normal: >40)
+
+Triglycerides: 145 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 92 mg/dL (Normal: 70–99)
+
+HbA1c: 5.5% (Normal: <5.7%)
+
+Creatinine: 1.0 mg/dL (Normal: 0.7–1.3)
+
+eGFR: 88 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 25 U/L (Normal: 7–40)
+
+AST: 23 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.7 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Wang Li
+
+4. Japanese Female
+Patient: Yumi Nakamura, Age 55, Female
+Date: May 29, 2026
+
+CBC
+
+Hemoglobin: 12.9 g/dL (Normal: 12.0–15.5)
+
+Hematocrit: 38% (Normal: 36–46%)
+
+WBC: 6.7 x10^3/uL (Normal: 4.5–11.0)
+
+Platelets: 225 x10^3/uL (Normal: 150–400)
+
+LIPID PANEL
+
+Total Cholesterol: 215 mg/dL (Normal: <200)
+
+LDL Cholesterol: 140 mg/dL (Normal: <100)
+
+HDL Cholesterol: 52 mg/dL (Normal: >40)
+
+Triglycerides: 150 mg/dL (Normal: <150)
+
+METABOLIC PANEL
+
+Glucose (Fasting): 94 mg/dL (Normal: 70–99)
+
+HbA1c: 5.6% (Normal: <5.7%)
+
+Creatinine: 0.8 mg/dL (Normal: 0.6–1.1)
+
+eGFR: 92 mL/min (Normal: >60)
+
+LIVER FUNCTION
+
+ALT: 23 U/L (Normal: 7–40)
+
+AST: 21 U/L (Normal: 10–40)
+
+Bilirubin Total: 0.6 mg/dL (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Akira Fujimoto
